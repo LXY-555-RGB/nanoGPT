@@ -229,7 +229,7 @@ input.txt：原始的莎士比亚文本数据集（下载后生成）。
 
 按上述步骤对诗词文本进行训练，以下为结果：
 
-![sc](F:\教程\damoxing\nanoGPT\assets\sc.png)
+<img src="F:\教程\damoxing\nanoGPT\assets\sc.png">
 
 ### 2.3天龙八部
 
